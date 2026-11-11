@@ -1,12 +1,14 @@
 <h1 align="center">Hi, I'm Shrihari Joshi 👋</h1>
 
 <p align="center">
-  Practicing <strong>offensive security</strong> and <strong>VAPT</strong>, with a continued focus on <strong>SOC operations</strong>.
+  Practicing <strong>offensive security</strong> and <strong>VAPT</strong>, with a continued focus on <strong>SOC operations</strong> and bug hunting.
 </p>
 
 <p align="center">
   <a href="https://github.com/shriharijoshi223007-web/exploitlab"><img src="https://img.shields.io/badge/Featured%20project-ExploitLab-0f766e?style=for-the-badge" alt="Featured project: ExploitLab"></a>
   <a href="https://github.com/shriharijoshi223007-web/Portfolio-"><img src="https://img.shields.io/badge/Portfolio-Visit-334155?style=for-the-badge" alt="Visit my portfolio"></a>
+  <a href="https://hackerone.com/shrihari3301"><img src="https://img.shields.io/badge/HackerOne-shrihari3301-494649?style=for-the-badge&logo=hackerone" alt="HackerOne profile: shrihari3301"></a>
+  <a href="https://bugcrowd.com/shriharijoshi3301"><img src="https://img.shields.io/badge/Bugcrowd-shriharijoshi3301-f26822?style=for-the-badge" alt="Bugcrowd profile: shriharijoshi3301"></a>
 </p>
 
 ---
@@ -15,6 +17,7 @@
 
 - 🛡️ Practicing offensive security and VAPT in controlled, authorized environments.
 - 🧭 Developing my skills in SOC operations and defensive monitoring.
+- 🐞 Bug hunter on HackerOne and Bugcrowd; my profiles are linked above.
 - 🧪 Building **ExploitLab**, a local web security academy with contained exercises and defensive guidance.
 - 📚 Learning by building, testing, and documenting practical projects.
 
@@ -25,9 +28,14 @@
 | [**ExploitLab**](https://github.com/shriharijoshi223007-web/exploitlab) | A work-in-progress, local web security learning academy with guided exercises, progressive hints, and remediation. |
 | [**Portfolio**](https://github.com/shriharijoshi223007-web/Portfolio-) | My digital resume and project showcase. |
 
+### Bug bounty profiles
+
+- [HackerOne — @shrihari3301](https://hackerone.com/shrihari3301)
+- [Bugcrowd — @shriharijoshi3301](https://bugcrowd.com/shriharijoshi3301)
+
 ### Current focus
 
-Offensive security · VAPT · SOC operations
+Offensive security · VAPT · Bug hunting · SOC operations
 
 ---
 
