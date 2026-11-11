@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shrihari Joshi 👋</h1>
 
 <p align="center">
-  Cybersecurity enthusiast exploring <strong>VAPT</strong>, <strong>threat intelligence</strong>, and <strong>SOC operations</strong>.
+  Practicing <strong>offensive security</strong> and <strong>VAPT</strong>, with a continued focus on <strong>SOC operations</strong>.
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ### About me
 
-- 🛡️ Exploring web application security and vulnerability assessment.
-- 🔎 Building my understanding of threat intelligence and security operations.
-- 🧪 Creating **ExploitLab**, a local learning academy with contained web security exercises and defensive guidance.
+- 🛡️ Practicing offensive security and VAPT in controlled, authorized environments.
+- 🧭 Developing my skills in SOC operations and defensive monitoring.
+- 🧪 Building **ExploitLab**, a local web security academy with contained exercises and defensive guidance.
 - 📚 Learning by building, testing, and documenting practical projects.
 
 ### Featured projects
@@ -27,7 +27,7 @@
 
 ### Current focus
 
-Web application security · VAPT · Threat intelligence · SOC / defensive monitoring
+Offensive security · VAPT · SOC operations
 
 ---
 
